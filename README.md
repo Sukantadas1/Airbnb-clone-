@@ -1,2 +1,2 @@
-# Airbnb-clone-
-airbnb clone 
+# Airbnb-clone
+Airbnb clone 
